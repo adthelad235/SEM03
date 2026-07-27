@@ -1,2 +1,1 @@
-This is the CAN bus firmware for a solar car consisting of ~10 nodes
-I am using ESP32s and the Arduino IDE to create sketches for my nodes
+This repository contains the CAN bus firmware for a solar car electrical system consisting of approximately 10 distributed nodes, each running on an ESP32 microcontroller. The firmware is developed using the Arduino IDE and implements robust inter-node communication, real-time telemetry, and distributed control for critical vehicle subsystems including battery management, motor control, solar array monitoring, and driver interface.
